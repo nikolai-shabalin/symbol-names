@@ -1,3 +1,5 @@
+Репозиторий переехал в [Веб-стандарты](https://github.com/web-standards-ru/dictionary/blob/main/keyboard.md)
+
 # Названия символов на клавиатуре
 
 Символ | RU | ENG
