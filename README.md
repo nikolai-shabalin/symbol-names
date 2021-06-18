@@ -19,7 +19,7 @@
 \> | Символ больше или Правая/закрывающая угловая скобка | Greater Than or Right/Close Angle Bracket
 \: | Двоеточие | Colon
 \; | Точка с запятой | Semicolon
-&#42; | Звёздочка | Asterisk, Star
+* (&#42;) | Звёздочка | Asterisk, Star
 \+ | Плюс | Plus
 \- | Минус, дефис | Hyphen, Minus, Dash
 \/ | Дробь, Косая черта, Деление | Forward Slash 
